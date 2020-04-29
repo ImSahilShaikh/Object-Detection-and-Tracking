@@ -1,1 +1,0 @@
-Camshift face tracker
