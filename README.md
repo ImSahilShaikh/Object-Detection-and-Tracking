@@ -1,5 +1,5 @@
 # Object-Tracking
-A guided project by coursera which has following
+A guided project by coursera in OpenCV Python which has following
 1. Optic Flow
 2. Dense Optic Flow
 3. Mean Shift
