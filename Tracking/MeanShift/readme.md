@@ -1,1 +1,1 @@
-Mean Shift face tracker
+Multi Object tracker using opencv
